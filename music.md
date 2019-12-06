@@ -81,7 +81,7 @@
 * [RadioTunes](https://tinyurl.com/y5lplkba) - (Music, Small Library)
 * [JetSetRadio](https://tinyurl.com/y2blehem) - (Music, Small Library)
 * [Live365](https://tinyurl.com/y53nwfmd) - (Music, Small Library)
-* [Accuradio](https://www.accuradio.com/) - (Music, Small Library)
+* [Accuradio](https://tinyurl.com/yd5ororb) - (Music, Small Library)
 * [EarBits](https://tinyurl.com/y4z5aapt) - (Music, Small Library)
 * [Slacker](https://tinyurl.com/djtoj6) - (Music, Small Library)
 * [IndieShuffle](https://tinyurl.com/yynorjw7) - (Shuffle Indie Songs)

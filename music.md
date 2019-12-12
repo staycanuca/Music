@@ -4,7 +4,9 @@
 * [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
 * [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
 
-**Stream**
+***
+
+###Stream
 
 * [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [Desktop App](https://tinyurl.com/y2muobwc) & [Block Ads](https://redd.it/dmy571)
 * [**Spotify Android** (Modded)](https://redd.it/d0zair) - (No Ads, High Quality, On PC/Mac via [Emulator](https://tinyurl.com/y5kym3pp))
@@ -33,7 +35,9 @@
 * [Khinsider](https://tinyurl.com/y977p8j4) - (Video Game Soundtracks, Big Library)
 * [Audionautix](https://tinyurl.com/y2kk9a35) - (Picks a songs based on genre)
 
-**Download**
+***
+
+###Download
 
 * **Important** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting. 
 * [**DeezloaderRemix**](https://tinyurl.com/y4ehjenm) - (PC, Mac, Linux, [Android](https://tinyurl.com/y496866a), FLAC/MP3, Huge Library, DDL)
@@ -64,7 +68,9 @@
 * [RapUpload](https://tinyurl.com/y2ap6swu) - (MP3, Big Library, DDL)
 * [BeeMP3](https://tinyurl.com/ldmpr6g) - (MP3, Medium Library, DDL)
 
-**Radio/Podcasts**
+***
+
+###Radio/Podcasts
 
 * [**Pandora**](https://tinyurl.com/ydqahwd) - (Music, Custom Radio Stations, Big Library)
 * [**Last.fm**](https://tinyurl.com/y4w45hof) or [Libre.fm](https://tinyurl.com/y5nca7qz) - (Music, Custom Radio Stations, Big Library)
@@ -87,7 +93,9 @@
 * [IndieShuffle](https://tinyurl.com/yynorjw7) - (Shuffle Indie Songs)
 * [Audio Archive](https://tinyurl.com/y5qdkpeu) - (News programming, Old Radio shows, Podcasts)
 
-**Helpful**
+***
+
+###Helpful
 
 * [**Last.fm**](https://tinyurl.com/y4w45hof) or [Libre.fm](https://tinyurl.com/y5nca7qz) - (Tracks music you listen to) + [Manual Scrobbler](https://tinyurl.com/y5ltluqy)
 * [**Muspy**](https://tinyurl.com/9u24kua) - (Get updated when albums by bands you follow are released)

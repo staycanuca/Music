@@ -106,4 +106,3 @@
 * [iTunes](https://tinyurl.com/cmgnnzt) or [foobar2000](https://tinyurl.com/l7lz78d) - (Music Player/Library)
 * [Shortlinks](https://tinyurl.com/y5bp9ode) - (Easily share/save post)
 * Backup - [Github](https://tinyurl.com/y5urkay8)
-* *Follow on [Letterboxd](https://letterboxd.com/imtoad/)*

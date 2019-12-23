@@ -39,7 +39,7 @@
 
 ###Download
 
-* **Important** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting. 
+* **Important** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting. 
 * [**DeezloaderRemix**](https://tinyurl.com/y4ehjenm) - (PC, Mac, Linux, [Android](https://tinyurl.com/y496866a), FLAC/MP3, Huge Library, DDL)
 * [**Kingdom-Leaks**](https://tinyurl.com/y5725sqg) - (MP3, Huge Library, DDL)
 * [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (Multiple File Types, Huge Libraries, Torrents)

@@ -2,7 +2,7 @@
 * [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
 * [PC, Emulator & Android Games](https://redd.it/dhcmkw)
 * [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
-* [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
+* [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
 
 ***
 

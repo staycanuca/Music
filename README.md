@@ -1,1 +1,1 @@
-**Click "streaming.md" to view streaming post**
+**Click "music.md" to view streaming post**

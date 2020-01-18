@@ -1,8 +1,9 @@
 * **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
+* [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
 * [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
 * [PC, Emulator & Android Games](https://redd.it/dhcmkw)
 * [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
-* [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
+* [Discord](https://discord.gg/rV5jR3) (Community Chat)
 
 ***
 

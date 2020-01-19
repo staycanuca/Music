@@ -7,7 +7,7 @@
 
 ***
 
-###Stream
+**Stream**
 
 * [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [Desktop App](https://tinyurl.com/y2muobwc), [Block Ads](https://tinyurl.com/spk9tdq) & [Stop Updates](https://redd.it/dmy571)
 * [**Spotify Android** (Modded)](https://redd.it/d0zair) - (No Ads, High Quality, On PC/Mac via [Emulator](https://tinyurl.com/y5kym3pp))
@@ -40,7 +40,7 @@
 
 ***
 
-###Download
+**Download**
 
 * **Important** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting. 
 * [**DeezloaderRemix**](https://tinyurl.com/y4ehjenm) - (PC, Mac, Linux, [Android](https://tinyurl.com/y496866a), FLAC/MP3, Huge Library, DDL)
@@ -75,7 +75,7 @@
 
 ***
 
-###Radio/Podcasts
+**Radio/Podcasts**
 
 * [**Pandora**](https://tinyurl.com/ydqahwd) - (Music, Custom Radio Stations, Big Library)
 * [**Last.fm**](https://tinyurl.com/y4w45hof) or [Libre.fm](https://tinyurl.com/y5nca7qz) - (Music, Custom Radio Stations, Big Library)
@@ -100,7 +100,7 @@
 
 ***
 
-###Helpful
+**Helpful**
 
 * [**Last.fm**](https://tinyurl.com/y4w45hof) or [Libre.fm](https://tinyurl.com/y5nca7qz) - (Tracks music you listen to) + [Manual Scrobbler](https://tinyurl.com/y5ltluqy)
 * [**Muspy**](https://tinyurl.com/9u24kua) - (Get updated when albums by bands you follow are released)

@@ -47,7 +47,7 @@
 * [**Kingdom-Leaks**](https://tinyurl.com/y5725sqg) - (MP3, Huge Library, DDL)
 * [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (Multiple File Types, Huge Libraries, Torrents)
 * [**Metal-Tracker**](https://tinyurl.com/y4x9g85r) - (MP3, Metal, Big Library, DDL)
-* r/opendirectories + [How to Search](https://redd.it/933pzm)
+* **r/opendirectories** + [How to Search](https://redd.it/933pzm), [All Directories](https://redd.it/dxt28f)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)
 * [Torrentino](https://tinyurl.com/yythwmt3) - (Search public trackers, Big Libraries, Torrents)
 * [RuTracker](https://tinyurl.com/yzl2n8s) - (Multiple File Types, Huge Library, Torrents)

@@ -112,4 +112,4 @@
 * [Beets](https://tinyurl.com/ho3mz7z) - (Music Metadata Organizer)
 * [iTunes](https://tinyurl.com/cmgnnzt) or [foobar2000](https://tinyurl.com/l7lz78d) - (Music Player/Library)
 * [Shortlinks](https://tinyurl.com/y5bp9ode) - (Easily share/save post)
-* Backup's - [Raddle](https://tinyurl.com/v8eq8f8), [Github](https://github.com/Quakes4days123), [Ceddit](https://tinyurl.com/sdm58nb), [Archive](https://tinyurl.com/wtmllju)
+* [**Sub Backups**](https://tinyurl.com/qm8tqwv)

@@ -67,6 +67,7 @@
 * [Plus Premieres](https://tinyurl.com/y3g8dewf) - (iTunes M4A, Medium Library, DDL)
 * [Scnlog](https://tinyurl.com/y934cds6) - (MP3, Big Library, DDL)
 * [filesearch.link](https://tinyurl.com/vhp6pfn) - (Search Multiple DL Sites)
+* [SoftArchive](https://tinyurl.com/yxzw6tnp) - (DL's)
 * [4Shared](https://tinyurl.com/y36fdqas) - (MP3, Big Library, DDL)
 * [Uloz](https://tinyurl.com/y4zjjbxu) - (MP3, Big Library, DDL)
 * [Song Lovers](https://tinyurl.com/y3lo62yc) - (MP3, Big Library, DDL)

@@ -1,4 +1,4 @@
-* **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
+* **Important** - [**Adblocking Guide**](https://github.com/freemediaheckyeah/streaming/wiki/Adblockers) 
 * [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
 * [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
 * [PC, Emulator & Android Games](https://redd.it/dhcmkw)
@@ -42,7 +42,7 @@
 
 **Download**
 
-* **Important** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting. 
+* **Important** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting. 
 * [**DeezloaderRemix**](https://tinyurl.com/y4ehjenm) - (PC, Mac, Linux, [Android](https://tinyurl.com/y496866a), FLAC/MP3, Huge Library, DDL)
 * [**Kingdom-Leaks**](https://tinyurl.com/y5725sqg) - (MP3, Huge Library, DDL)
 * [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (Multiple File Types, Huge Libraries, Torrents)
@@ -111,5 +111,5 @@
 * [Mooval](https://tinyurl.com/y4kbfpag) - (Move your songs from one service to another.)
 * [Beets](https://tinyurl.com/ho3mz7z) - (Music Metadata Organizer)
 * [iTunes](https://tinyurl.com/cmgnnzt) or [foobar2000](https://tinyurl.com/l7lz78d) - (Music Player/Library)
-* [Shortlinks](https://tinyurl.com/y5bp9ode) - (Easily share/save post)
-* [**Sub Backups**](https://tinyurl.com/qm8tqwv)
+* [Shortlinks](https://github.com/freemediaheckyeah/Music/wiki/Shortlinks) - (Easily share/save post)
+* [**Sub Backups**](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)

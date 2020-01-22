@@ -9,7 +9,7 @@
 
 **Stream**
 
-* [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [Desktop App](https://tinyurl.com/y2muobwc), [Block Ads](https://tinyurl.com/spk9tdq) & [Stop Updates](https://redd.it/dmy571)
+* [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [App](https://tinyurl.com/y2muobwc), [Block Ads](https://tinyurl.com/spk9tdq) & [Stop Updates](https://redd.it/dmy571)
 * [**Spotify Android** (Modded)](https://redd.it/d0zair) - (No Ads, High Quality, On PC/Mac via [Emulator](https://tinyurl.com/y5kym3pp))
 * [**Youtube Music**](https://tinyurl.com/qa2eg8d) - (Music Videos, Huge Library) + [YT to MP3](https://tinyurl.com/y3ozslk7)
 * [**Reddit Music Player**](https://tinyurl.com/y667vgmd) - (Subreddit Music, Huge Library)

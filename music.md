@@ -11,7 +11,7 @@
 
 * [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [App](https://tinyurl.com/y2muobwc), [Block Ads](https://tinyurl.com/spk9tdq) & [Stop Updates](https://redd.it/dmy571)
 * [**Spotify Android** (Modded)](https://redd.it/d0zair) - (No Ads, High Quality, On PC/Mac via [Emulator.](https://tinyurl.com/pf7ahx8))
-* [**Youtube Music**](https://tinyurl.com/qa2eg8d) - (Music Videos, Huge Library) + [YT to MP3](https://tinyurl.com/y3ozslk7)
+* [**Youtube Music**](https://tinyurl.com/qa2eg8d) - (Music Videos, Huge Library) + [YTmp3](https://tinyurl.com/vwasuvc) or [YT to MP3](https://tinyurl.com/y3ozslk7)
 * [**Reddit Music Player**](https://tinyurl.com/y667vgmd) - (Subreddit Music, Huge Library)
 * [**Soundcloud**](https://tinyurl.com/b7h9nfb) - (User Made Music, Huge Library) 
 * [StreamSquid](https://tinyurl.com/y2zujlmp) or [GrooveMP3](https://tinyurl.com/hrsfbs5) - (Music Streaming, Huge Library)

@@ -52,6 +52,8 @@
 * [FilePursuit](https://tinyurl.com/y2no5m8l) - (Search DL's) 
 * [Ewasion](https://tinyurl.com/u9ykq2m) - (Search directories)
 * [Filer](https://tinyurl.com/upr72yz) - (Search directories)
+* [NMHDDS](https://tinyurl.com/tjk8p45) - (Search directories)
+* [Palined](https://tinyurl.com/y9422sk6) - (Search directories)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)
 * [Torrentino](https://tinyurl.com/yythwmt3) - (Search public trackers, Big Libraries, Torrents)
 * [RuTracker](https://tinyurl.com/yzl2n8s) - (Multiple File Types, Huge Library, Torrents)

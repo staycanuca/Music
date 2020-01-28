@@ -44,7 +44,7 @@
 * **Important** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting. 
 * [**DeezloaderRemix**](https://tinyurl.com/y4ehjenm) - (PC, Mac, Linux, [Android](https://tinyurl.com/y496866a), FLAC/MP3, Huge Library, DDL)
 * [**Kingdom-Leaks**](https://tinyurl.com/y5725sqg) - (MP3, Huge Library, DDL)
-* [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (Multiple File Types, Huge Libraries, Torrents)
+* [**General Torrent Sites**](https://tinyurl.com/vbshno8) 
 * [**Metal-Tracker**](https://tinyurl.com/y4x9g85r) - (MP3, Metal, Big Library, DDL)
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)

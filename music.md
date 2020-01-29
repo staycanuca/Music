@@ -79,7 +79,6 @@
 * [cmd.to](https://tinyurl.com/y2k6vsjr) - (Use commands to play genres & artists)
 * [RadioGarden](https://tinyurl.com/y47799x5) - (Use a Globe to listen to radio stations worldwide)
 * [Mixcloud](https://tinyurl.com/ndaz8a4) - (Music, Radio, Podcasts, Medium Library)
-* [8tracks](https://tinyurl.com/kys9eaw) - (Music, Small Library)
 * [Jango](https://tinyurl.com/28qtlh4) - (Music, Small Library)
 * [RadioTunes](https://tinyurl.com/y5lplkba) - (Music, Small Library)
 * [JetSetRadio](https://tinyurl.com/y2blehem) - (Music, Small Library)

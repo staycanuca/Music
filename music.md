@@ -64,6 +64,7 @@
 * [94HipHop](https://tinyurl.com/y4yu5udz) - (MP3, Big Library, DDL)
 * [RapUpload](https://tinyurl.com/y2ap6swu) - (MP3, Big Library, DDL)
 * [BeeMP3](https://tinyurl.com/ldmpr6g) - (MP3, Medium Library, DDL)
+* [Adobe Audition Downloads](https://tinyurl.com/ro9zmtd) - (Sound effects / sound loop DDL)
 
 ***
 

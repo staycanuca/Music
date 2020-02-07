@@ -43,11 +43,12 @@
 * **Important** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting. 
 * [**DeezloaderRemix**](https://tinyurl.com/y4ehjenm) - (PC, Mac, Linux, [Android](https://tinyurl.com/y496866a), FLAC/MP3, Huge Library, DDL)
 * [**Kingdom-Leaks**](https://tinyurl.com/y5725sqg) - (MP3, Huge Library, DDL)
-* [**General Torrent Sites**](https://tinyurl.com/vbshno8) 
 * [**Metal-Tracker**](https://tinyurl.com/y4x9g85r) - (MP3, Metal, Big Library, DDL)
+* [**General Torrent Sites**](https://tinyurl.com/vbshno8) + [Clients](https://tinyurl.com/txregtr) - (PC/Mac, Huge Libraries, Torrents)
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)
 * [Torrentino](https://tinyurl.com/yythwmt3) - (Search public trackers, Big Libraries, Torrents)
+* [Slider.kz](https://tinyurl.com/yygmtore), [My Free Mp3](https://tinyurl.com/y89om7wl) or [denr01](https://tinyurl.com/yy3lxw57) - (Music Streaming + Downloading, Huge Library) 
 * [RuTracker](https://tinyurl.com/yzl2n8s) - (Multiple File Types, Huge Library, Torrents)
 * [SMLoadr](https://tinyurl.com/yy7h9tdd) - (PC App, DDL)
 * [Soulseek](https://tinyurl.com/cubmtne) - (PC App, DDL)

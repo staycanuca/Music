@@ -66,6 +66,7 @@
 * [RapUpload](https://tinyurl.com/y2ap6swu) - (MP3, Big Library, DDL)
 * [BeeMP3](https://tinyurl.com/ldmpr6g) - (MP3, Medium Library, DDL)
 * [Adobe Audition Downloads](https://tinyurl.com/ro9zmtd) - (Sound effects / sound loop DDL)
+* [Chimera](https://tinyurl.com/yy9urcsq) - (Grab music from many sites) + [How to use](https://youtu.be/5y8rtsLw7Rc)
 
 ***
 

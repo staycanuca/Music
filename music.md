@@ -77,6 +77,7 @@
 * [**Spotify Podcasts**](https://tinyurl.com/y4kewb7d) - (Podcasts, Huge Library)
 * [i**HeartRadio**](https://tinyurl.com/zfk6w8k) - (Music, Radio, Podcasts, Big Library)
 * [**TuneIn**](https://tinyurl.com/yd7azvt7) - (Music, Radio, Podcasts, Big Library)
+* [Podcast Addict (Android)](https://tinyurl.com/ohzz456) - (Podcasts, Big Library)
 * [Radio.com](https://tinyurl.com/y3pedg3r) - (Podcasts, Radio, Medium Library)
 * [Podbean](https://tinyurl.com/cgb5ak) - (Podcasts, Big library)
 * [cmd.to](https://tinyurl.com/y2k6vsjr) - (Use commands to play genres & artists)

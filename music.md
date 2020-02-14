@@ -46,6 +46,7 @@
 * [**Metal-Tracker**](https://tinyurl.com/y4x9g85r) - (MP3, Metal, Big Library, DDL)
 * [**General Torrent Sites**](https://tinyurl.com/vbshno8) + [Clients](https://tinyurl.com/txregtr) - (PC/Mac, Huge Libraries, Torrents)
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
+* [Telegram Deezer Bots](https://tinyurl.com/wd58btc) - (MP3, FLAC, DL From telegram)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)
 * [Torrentino](https://tinyurl.com/yythwmt3) - (Search public trackers, Big Libraries, Torrents)
 * [Slider.kz](https://tinyurl.com/yygmtore), [My Free Mp3](https://tinyurl.com/y89om7wl) or [denr01](https://tinyurl.com/yy3lxw57) - (Music Streaming + Downloading, Huge Library) 

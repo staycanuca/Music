@@ -25,6 +25,7 @@
 * [datPiff](https://tinyurl.com/yc2kdqrv) - (Mixtapes, Medium Library)
 * [PumpYouUp](https://tinyurl.com/yxv96f35) - (Indie Dubstep, Small Library)
 * [Soundclick](https://tinyurl.com/y5svmh6o) - (Independent, Big Library)
+* [Jamendo](https://tinyurl.com/hvwfynu) - (Independent, Big Library)
 * [MusOpen](https://tinyurl.com/ns38edg) - (Classical, Small Library)
 * [Gaana](https://tinyurl.com/yaknpkjq) - (Indian, Big Library)
 * [hungama](https://tinyurl.com/y5arqz3c) - (Indian, Big Library)

@@ -58,6 +58,7 @@
 * [Jimmy R](https://tinyurl.com/3s8b3b) - (Mp3, Archive Search, DDL)
 * [SMLoadr](https://tinyurl.com/yy7h9tdd) - (PC App, DDL)
 * [Soulseek](https://tinyurl.com/cubmtne) - (PC App, DDL)
+* [Redtopia](https://tinyurl.com/ws47ogf) - (redtopia repository)
 * [Take Metal](https://tinyurl.com/y6txa9d2) - (MP3, Metal, Big Library, DDL)
 * [eMP3](https://tinyurl.com/y6ctlhrl) - (MP3, MP4, Big Library, DDL)
 * [ZOMB Torrents](https://tinyurl.com/5gua5k) - (Lossless Music Sharing Forum)

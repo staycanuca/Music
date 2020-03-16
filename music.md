@@ -48,7 +48,7 @@
 * [**General Torrent Sites**](https://tinyurl.com/vbshno8) + [Clients](https://tinyurl.com/txregtr) - (PC/Mac, Huge Libraries, Torrents)
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
 * [**Piracy Forums**](https://tinyurl.com/vn53xqm) -  (General Piracy Forums)
-* [XSpotify](https://tinyurl.com/sab773c) or [Downtify](https://tinyurl.com/wmpkkh6) - (Spotify Downloader) 
+* [Downtify](https://tinyurl.com/wmpkkh6) - (Spotify Downloader) 
 * [Telegram Deezer Bots](https://tinyurl.com/wd58btc) - (MP3, FLAC, DL From telegram)
 * [MP3Jams](https://tinyurl.com/y5ypuujn) - (FLAC, MP3, Medium Library, DDL)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)

@@ -1,6 +1,6 @@
 * [**Adblocking Guide**](https://github.com/freemediaheckyeah/streaming/wiki/Adblockers) 
 * **[Discord](https://discord.gg/vgnaeka)**
-* [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
+* [Movies, TV, Anime & Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/movies-tv-anime-sports#wiki)
 * [PC, Emulator & Android Games](https://redd.it/dhcmkw)
 * [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
 

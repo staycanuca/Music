@@ -65,6 +65,7 @@
 * [MP3Juices](https://tinyurl.com/yyhemsjk) or [MP3Skull](https://tinyurl.com/y5r3e4xk) - (MP3, Big Library, DDL)
 * [Plus Premieres](https://tinyurl.com/y3g8dewf) - (iTunes M4A, Medium Library, DDL)
 * [Song Lovers](https://tinyurl.com/y3lo62yc) - (MP3, Big Library, DDL)
+* [Playit.pk](https://tinyurl.com/stfpeuh) - (MP3, Medium Library, DDL)
 * [Sound-Park](https://tinyurl.com/y676tq7k) - (FLAC, Big Library, Torrent)
 * [FreshRemix](https://tinyurl.com/yahosk62) - (MP3 Medium Library, DDL)
 * [Hip Hop Mixtapes](https://tinyurl.com/y4znz45t) - (MP3, Big Library, DDL)

@@ -10,7 +10,7 @@
 
 * [**Spotify**](https://tinyurl.com/pwrdtpz) - (Music Streaming, Huge Library) + [App](https://tinyurl.com/y2muobwc), [Block Ads](https://tinyurl.com/spk9tdq) & [Stop Updates](https://redd.it/dmy571)
 * [**Spotify Android** (Modded)](https://redd.it/d0zair) - (No Ads, High Quality, On PC/Mac via [Emulator.](https://tinyurl.com/pf7ahx8))
-* [**Youtube Music**](https://tinyurl.com/qa2eg8d) - (Music Videos, Huge Library) + [YTmp3](https://tinyurl.com/vwasuvc) or [YT to MP3](https://tinyurl.com/y3ozslk7)
+* [**Youtube Music**](https://tinyurl.com/qa2eg8d) or [Vanced (Android)](https://tinyurl.com/ya86n837) - (Music Videos, Huge Library) 
 * [**Reddit Music Player**](https://tinyurl.com/y667vgmd) - (Subreddit Music, Huge Library)
 * [**Soundcloud**](https://tinyurl.com/b7h9nfb) - (User Made Music, Huge Library) 
 * [StreamSquid](https://tinyurl.com/y2zujlmp) or [GrooveMP3](https://tinyurl.com/hrsfbs5) - (Music Streaming, Huge Library)
@@ -49,6 +49,7 @@
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
 * [**Piracy Forums**](https://tinyurl.com/vn53xqm) -  (General Piracy Forums)
 * [Downtify](https://tinyurl.com/wmpkkh6) - (Spotify Downloader) 
+* [YTmp3](https://tinyurl.com/vwasuvc) or [YT to MP3](https://tinyurl.com/y3ozslk7) - (Youtube Downloader)
 * [Telegram Deezer Bots](https://tinyurl.com/wd58btc) - (MP3, FLAC, DL From telegram)
 * [MP3Jams](https://tinyurl.com/y5ypuujn) - (FLAC, MP3, Medium Library, DDL)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)

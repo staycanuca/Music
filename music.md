@@ -50,6 +50,7 @@
 * [**Piracy Forums**](https://tinyurl.com/vn53xqm) -  (General Piracy Forums)
 * [Downtify](https://tinyurl.com/wmpkkh6) - (Spotify Downloader) 
 * [YTmp3](https://tinyurl.com/vwasuvc) or [YT to MP3](https://tinyurl.com/y3ozslk7) - (Youtube Downloader)
+* [Bandcamp Downloader](https://tinyurl.com/u2ycxmr)
 * [Telegram Deezer Bots](https://tinyurl.com/wd58btc) - (MP3, FLAC, DL From telegram)
 * [MP3Jams](https://tinyurl.com/y5ypuujn) - (FLAC, MP3, Medium Library, DDL)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)

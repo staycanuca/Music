@@ -110,6 +110,7 @@
 * [**Muspy**](https://tinyurl.com/9u24kua) - (Get updated when albums by bands you follow are released)
 * [**Sputnik**](https://tinyurl.com/y4s2jj6n) - (Album Tracker/Reviews)
 * [RateYourMusic](https://tinyurl.com/pyfrmb5), [MusicBrainz](https://tinyurl.com/oeoo2d7) or [Discogs](https://tinyurl.com/y8m4o562) - (Music encyclopedia, Album Tracker/Reviews)
+* [Ben Dodson](https://tinyurl.com/zf2qmlr) - (Automatically find album art)
 * [Mooval](https://tinyurl.com/y4kbfpag) - (Move your songs from one service to another.)
 * [Beets](https://tinyurl.com/ho3mz7z) - (Music Metadata Organizer)
 * [iTunes](https://tinyurl.com/cmgnnzt) or [foobar2000](https://tinyurl.com/l7lz78d) - (Music Player/Library)

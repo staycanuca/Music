@@ -55,6 +55,7 @@
 * [MP3Jams](https://tinyurl.com/y5ypuujn) - (FLAC, MP3, Medium Library, DDL)
 * [Riptide](https://tinyurl.com/y2yfmfom) - (Search public trackers, Big Libraries, Torrents)
 * [Torrentino](https://tinyurl.com/yythwmt3) - (Search public trackers, Big Libraries, Torrents)
+* [Orpheus](https://tinyurl.com/wgwcvx3) - (MP3, Medium Library, DDL)
 * [Slider.kz](https://tinyurl.com/yygmtore), [My Free Mp3](https://tinyurl.com/y89om7wl) or [denr01](https://tinyurl.com/yy3lxw57) - (Music Streaming + Downloading, Huge Library) 
 * [RuTracker](https://tinyurl.com/yzl2n8s) - (Multiple File Types, Huge Library, Torrents)
 * [Jimmy R](https://tinyurl.com/3s8b3b) - (Mp3, Archive Search, DDL)
